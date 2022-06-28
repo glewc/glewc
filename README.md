@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @glewc
-- 👀 I’m interested in transitioning into software development 
+- 👀 I have sociology degree and work in the fitness industry. I am interested in starting my journey to become a software engineer 
 - 🌱 I’m currently learning how to code
 
 <!---
